@@ -1,0 +1,6 @@
+1	2	msg2	dat	9	sum is = 
+2	3	num1	dat	4	18
+3	4	num2	dat	4	20
+4	6	res	bss	4	-
+5	8	main	txt	-	-
+6	9	printf	txt	-	-

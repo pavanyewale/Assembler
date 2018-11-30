@@ -1,0 +1,5 @@
+nasm -f elf32 -Fdwarf -g add.asm -o add.o
+gcc -m32 add.o
+./a.out
+
+
